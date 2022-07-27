@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\CmsStreams.Models\bin\Debug\CmsStreams.Models.dll
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\CmsStreams.Models\bin\Debug\CmsStreams.Models.pdb
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\CmsStreams.Models\obj\Debug\CmsStreams.Models.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\CmsStreams.Models\obj\Debug\CmsStreams.Models.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\CmsStreams.Models\obj\Debug\CmsStreams.Models.dll
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\CmsStreams.Models\obj\Debug\CmsStreams.Models.pdb
