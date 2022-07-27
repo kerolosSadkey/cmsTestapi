@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AutoMapper, Version=10.0.0.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.10.1.1\lib\net461\AutoMapper.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -41,10 +44,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ModelsDot\DocumentDto.cs" />
-    <Compile Include="ModelsDot\UserDto.cs" />
+    <Compile Include="ModelsDto\DocumentAttachmentsDto.cs" />
+    <Compile Include="ModelsDto\DocumentDto.cs" />
+    <Compile Include="ModelsDto\DocumentStatusDto.cs" />
+    <Compile Include="ModelsDto\DocumentTrakingDto.cs" />
+    <Compile Include="ModelsDto\GroupDto.cs" />
+    <Compile Include="ModelsDto\GroupPrivilgeDto.cs" />
+    <Compile Include="ModelsDto\OrganizationDto.cs" />
+    <Compile Include="ModelsDto\PrivilegeDto.cs" />
+    <Compile Include="ModelsDto\UserDto.cs" />
+    <Compile Include="ModelsDto\UserLogDto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
