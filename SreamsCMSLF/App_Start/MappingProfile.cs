@@ -7,7 +7,11 @@ using System.Threading.Tasks;
 
 namespace SreamsCMSLF.App_Start
 {
-    internal interface MappingProfile :Profile
+    public class MappingProfile : Profile
     {
+        public MappingProfile()
+        {
+            
+        }
     }
 }
