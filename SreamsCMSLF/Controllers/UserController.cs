@@ -1,13 +1,14 @@
 ﻿
 
 using SreamsCMSLF.Repositories;
-using StreamsCms.Models.Dtos;
+using CmsStreams.Models.ModelsDto;
 using System;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
 using System.Web.Http;
 using System.Web.Mvc;
+using AutoMapper;
 
 namespace SreamsCMSLF.Controllers
 {
@@ -16,9 +17,11 @@ namespace SreamsCMSLF.Controllers
     public class ManageUserController : ApiController
     {
         private readonly IUserRepository userRepository;
-        public ManageUserController(IUserRepository _userRepository)
+        private readonly IMapper mapper;
+        public ManageUserController(IUserRepository _userRepository,IMapper _mapper)
         {
             this.userRepository = _userRepository;
+            mapper = _mapper;   
         }
 
         [System.Web.Http.Route("api/user/GetAllUser")]
@@ -34,7 +37,7 @@ namespace SreamsCMSLF.Controllers
                 }
                 else
                 {
-                    //var usersDtos = users.ConvertToDto(Organizations);
+                      
                     return Ok(users);
                 }
             }

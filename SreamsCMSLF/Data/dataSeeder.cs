@@ -14,20 +14,21 @@ namespace SreamsCMSLF.Data
         protected override void Seed(CmsDbContext context)
         {
 
-            context.Organizations.AddOrUpdate(x=>x.Id,
-               new Organization()
-               {
+            context.Organizations.AddRange(new List<Organization>() {
+                new Organization()
+                {
 
                     Id = 1,
-                Name = "Information Technology",
-                Description = "des1",
-                email = "qmail@gmail.com",
-                phone = "012563655555",
-                Address = "adress1",
-                landline = " landline",
-                fax = "fax1",
-                logo = "c/path"
-            },
+                    Name = "Information Technology",
+                    Description = "des1",
+                    email = "qmail@gmail.com",
+                    phone = "012563655555",
+                    Address = "adress1",
+                    landline = " landline",
+                    fax = "fax1",
+
+                    logo = "c/path"
+                },
                 new Organization()
                 {
 
@@ -39,7 +40,9 @@ namespace SreamsCMSLF.Data
                     Address = "adress1",
                     landline = " landline",
                     fax = "fax1",
-                    logo = "c/path"
+                    logo = "c/path",
+                    PerantId=1
+
                 },
                 new Organization()
                 {
@@ -52,13 +55,16 @@ namespace SreamsCMSLF.Data
                     Address = "adress1",
                     landline = " landline",
                     fax = "fax1",
-                    logo = "c/path"
+                    logo = "c/path",
+                    PerantId=2
+
+
                 }
-            );
+            });
 
 
 
-            context.Privileges.AddOrUpdate(x => x.Id,
+            context.Privileges.AddRange(new List<Privilege>(){
                new Privilege()
                {
                    Id = 1,
@@ -187,10 +193,11 @@ namespace SreamsCMSLF.Data
               created_at = DateTime.Now,
               Parent_id = 5
           }
-            );
+            });
 
 
-            context.Groups.AddOrUpdate(x => x.Id, new Group()
+            context.Groups.AddRange(new List<Group>(){
+               new Group()
             {
                 Id = 1,
                 Name = "Normal User",
@@ -207,13 +214,14 @@ namespace SreamsCMSLF.Data
                Id = 3,
                Name = "Administrator",
                Created_at = DateTime.Now,
+           }
            });
 
 
 
-            context.GroupPrivilges.AddOrUpdate(x => x.Id,
+            context.GroupPrivilges.AddRange(new List<GroupPrivilge>(){
 
-           
+
               new GroupPrivilge()
             {
                 Id = 1,
@@ -250,12 +258,12 @@ namespace SreamsCMSLF.Data
                 group_id = 3,
                 Privilege_id = 14,
             }
-        );
-          
+        });
 
-            context.Users.AddOrUpdate(x=>x.Id,
 
-          
+            context.Users.AddRange(new List<User>() {
+
+
                  new User()
             {
                 Id = 1,
@@ -310,7 +318,7 @@ namespace SreamsCMSLF.Data
                 Password = "Password"
 
             }
-        );
+        });
 
 
             base.Seed(context);

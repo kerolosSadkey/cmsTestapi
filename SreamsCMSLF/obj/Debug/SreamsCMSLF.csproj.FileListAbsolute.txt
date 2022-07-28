@@ -110,9 +110,142 @@ C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\MediaBrowser.Com
 C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\MediaBrowser.Model.pdb
 C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\EntityFramework.SqlServer.dll
 C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\EntityFramework.SqlServer.xml
-C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\obj\Debug\SreamsCMSLF.Migrations.init.resources
-C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\obj\Debug\SreamsCMSLF.csproj.GenerateResource.cache
 C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\CmsStreams.Models.dll
 C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\Swashbuckle.Core.dll
 C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\WebActivatorEx.dll
 C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\CmsStreams.Models.pdb
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\SreamsCMSLF.dll.config
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\SreamsCMSLF.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\SreamsCMSLF.pdb
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\csc.exe
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\csc.exe.config
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\csc.rsp
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\csi.exe
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\csi.exe.config
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\csi.rsp
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\Microsoft.Managed.Core.targets
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.AppContext.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.Collections.Immutable.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.Console.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.Globalization.Calendars.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.IO.Compression.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.IO.FileSystem.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.Net.Http.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.Net.Sockets.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.Reflection.Metadata.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.ValueTuple.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.Xml.XmlDocument.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.Xml.XPath.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\vbc.exe
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\vbc.exe.config
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\vbc.rsp
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\VBCSCompiler.exe
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\roslyn\VBCSCompiler.exe.config
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\Antlr3.Runtime.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\Autofac.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\Autofac.Integration.Mvc.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\CmsStreams.Models.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\EntityFramework.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\EntityFramework.SqlServer.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\MediaBrowser.Common.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\MediaBrowser.Model.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\Microsoft.Web.Infrastructure.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\Newtonsoft.Json.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\Swashbuckle.Core.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Buffers.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Diagnostics.DiagnosticSource.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Memory.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Net.Http.Formatting.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Numerics.Vectors.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Threading.Tasks.Extensions.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Web.Helpers.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Web.Http.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Web.Http.WebHost.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Web.Mvc.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Web.Optimization.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Web.Razor.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Web.WebPages.Deployment.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Web.WebPages.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Web.WebPages.Razor.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\WebActivatorEx.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\WebGrease.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\CmsStreams.Models.pdb
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\Autofac.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\Autofac.Integration.Mvc.pdb
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\Autofac.Integration.Mvc.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\EntityFramework.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\EntityFramework.SqlServer.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\MediaBrowser.Common.pdb
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\MediaBrowser.Model.pdb
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Buffers.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Diagnostics.DiagnosticSource.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Memory.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Numerics.Vectors.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Threading.Tasks.Extensions.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\Newtonsoft.Json.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Net.Http.Formatting.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Web.Helpers.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Web.Http.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Web.Http.WebHost.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Web.Mvc.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Web.Optimization.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Web.Razor.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Web.WebPages.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Web.WebPages.Deployment.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\System.Web.WebPages.Razor.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\Antlr3.Runtime.pdb
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\obj\Debug\SreamsCMSLF.csproj.AssemblyReference.cache
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\obj\Debug\SreamsCMSLF.Migrations.init.resources
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\obj\Debug\SreamsCMSLF.csproj.GenerateResource.cache
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\obj\Debug\SreamsCMSLF.csproj.CoreCompileInputs.cache
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\obj\Debug\SreamsCMSLF.csproj.CopyComplete
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\obj\Debug\SreamsCMSLF.dll
+E:\stream compony\New folder\cmsTestapi\SreamsCMSLF\obj\Debug\SreamsCMSLF.pdb
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\AutoMapper.dll
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\Unity.Abstractions.dll
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\Unity.AspNet.WebApi.dll
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\Unity.Container.dll
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\AutoMapper.xml
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\Unity.Abstractions.pdb
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\Unity.AspNet.WebApi.pdb
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\Unity.AspNet.WebApi.xml
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\Unity.Container.pdb
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\obj\Debug\SreamsCMSLF.Migrations.init.resources
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\obj\Debug\SreamsCMSLF.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\Laserfiche.DocumentServices.dll
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\Laserfiche.RepositoryAccess.dll
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\LaserficheImaging.dll
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\Laserfiche.HttpClient.dll
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\DELL\Desktop\ProjectStream\SreamsCMSLF\SreamsCMSLF\bin\LaserficheImaging.xml
